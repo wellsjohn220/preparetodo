@@ -65,6 +65,7 @@ PyQt5-sip==12.10.1
 pyqt5-tools==5.15.4.3.2
 PyQt5Designer==5.14.1
 pyserial==3.5
+PySide2==5.15.2.1
 PySocks==1.7.1
 python-dateutil==1.5
 python-dotenv==0.20.0
@@ -77,6 +78,7 @@ requests==2.27.1
 sarge==0.1.6
 selenium==4.1.2
 sgmllib3k==1.0.0
+shiboken2==5.15.2.1
 six==1.16.0
 sniffio==1.2.0
 sortedcontainers==2.4.0
