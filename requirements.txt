@@ -1,1 +1,2 @@
+heroku logs -n 200
 gunicorn==20.1.0
